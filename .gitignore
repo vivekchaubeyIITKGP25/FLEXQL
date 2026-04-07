@@ -1,0 +1,12 @@
+.codex
+
+# Build outputs
+build/
+bin/
+*.o
+*.d
+*.a
+*.so
+
+# Local run artifacts
+benchmark.out

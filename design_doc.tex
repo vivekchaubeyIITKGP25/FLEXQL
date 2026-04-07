@@ -1,0 +1,129 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{parskip}
+\geometry{margin=1in}
+
+\title{\textbf{FlexQL}\\Design and Implementation Report}
+\author{Submission for Roll No. 25CS60R65}
+\date{April 7, 2026}
+
+\begin{document}
+
+\maketitle
+
+\section{Project Summary}
+
+I implemented FlexQL as a compact SQL-like database server in C++17. My goal was to keep the system small enough to explain end to end while still covering the major pieces of a database driver: parsing, execution, networking, storage, durability, indexing, caching, testing, and benchmarking.
+
+\section{Supported Features}
+
+The implementation currently supports:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item \texttt{CREATE TABLE} and \texttt{CREATE TABLE IF NOT EXISTS}
+    \item single-row and batched \texttt{INSERT}
+    \item \texttt{SELECT *} and projected \texttt{SELECT}
+    \item one \texttt{WHERE} condition with \texttt{=}, \texttt{!=}, \texttt{<}, \texttt{>}, \texttt{<=}, and \texttt{>=}
+    \item \texttt{INNER JOIN}
+    \item single-column \texttt{ORDER BY}
+    \item \texttt{DELETE FROM}
+    \item row expiry through \texttt{EXPIRES <unix\_ms>}
+\end{itemize}
+
+\section{Architecture}
+
+The runtime is split into a small set of modules:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item a TCP server that accepts multiple concurrent clients
+    \item a client API and simple REPL
+    \item a handwritten parser for the supported SQL subset
+    \item an executor that performs scans, indexed lookup, joins, and ordering
+    \item a storage layer that writes table rows to disk
+    \item a durable write-ahead log used for recovery
+    \item a bounded primary-key hash index
+    \item an LRU cache for repeated \texttt{SELECT} statements
+\end{itemize}
+
+The diagrams shipped in the \texttt{diagrams/} directory summarize the same flow from request entry to storage and replay.
+
+\section{Storage and Durability}
+
+I store table rows in disk-backed row files and keep schema metadata separately. For tables with a primary key, I keep a bounded resident hash index and fall back to a disk-backed primary-key hash structure once the table grows beyond the resident limit.
+
+Durability follows a simple WAL-first rule:
+
+\begin{enumerate}[leftmargin=1.5em]
+    \item validate the statement,
+    \item append a prepared log record,
+    \item flush the log,
+    \item apply the change locally,
+    \item append a commit marker,
+    \item flush again,
+    \item return success.
+\end{enumerate}
+
+On restart, FlexQL replays only committed records and ignores incomplete tails. That keeps crash recovery behavior straightforward and predictable.
+
+\section{Concurrency}
+
+The server uses a worker pool and shared locking around the catalog, tables, cache, and indexes. Reads can proceed in parallel, while mutations are intentionally serialized through the executor's mutation path. I chose the simpler locking model because correctness and recovery were more important than maximum write concurrency for this project.
+
+\section{Testing}
+
+I kept two local test binaries:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item \texttt{./bin/flexql-test}
+    \item \texttt{./bin/flexql-test-all}
+\end{itemize}
+
+The tests cover parser behavior, executor logic, joins, ordering, cache invalidation, TTL handling, durable-log replay, and concurrency smoke checks.
+
+\section{Benchmarking}
+
+I used the integrated benchmark binary for the final benchmark run:
+
+\begin{verbatim}
+./bin/flexql-benchmark 10000000
+\end{verbatim}
+
+The submission result recorded on April 7, 2026 was:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item rows inserted: \texttt{10000000}
+    \item insert elapsed: \texttt{9209 ms}
+    \item insert throughput: \texttt{1085894 rows/sec}
+    \item multi-client full-table \texttt{SELECT}: \texttt{193780 ms}
+    \item multi-client primary-key \texttt{WHERE}: \texttt{26198 ms}
+    \item unit tests: \texttt{23/23 passed}
+\end{itemize}
+
+I saved the full console log in \texttt{benchmark.out}.
+
+\section{Limitations and Future Work}
+
+I deliberately kept the implementation focused. The current system does not include transactions, secondary indexes, aggregate queries, multi-condition boolean predicates, or a cost-based optimizer. If I continue the project, the next improvements would be richer \texttt{WHERE} support, better planning for joins and ordering, and more advanced storage compaction.
+
+\section{Repository Layout}
+
+\begin{verbatim}
+flexql/
+|-- bin/
+|-- include/
+|-- src/
+|-- tests/
+|-- benchmarks/
+|-- scripts/
+|-- diagrams/
+|-- README.md
+|-- DESIGN.md
+|-- design_doc.tex
+`-- benchmark.out
+\end{verbatim}
+
+\end{document}

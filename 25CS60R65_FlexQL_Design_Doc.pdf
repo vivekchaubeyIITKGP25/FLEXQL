@@ -1,0 +1,1646 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1932
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 706.5197 cm
+Q
+q
+1 0 0 1 76.86614 676.5197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 24 Tf 30 TL 180.0917 0 Td (FlexQL) Tj T* -180.0917 0 Td ET
+Q
+Q
+q
+1 0 0 1 76.86614 657.5197 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL 177.0632 0 Td (Design Document) Tj T* -177.0632 0 Td ET
+Q
+Q
+q
+1 0 0 1 76.86614 648.5197 cm
+Q
+q
+1 0 0 1 76.86614 646.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 634.0197 cm
+Q
+q
+1 0 0 1 76.86614 619.0197 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL 128.1517 0 Td (Vivek Chaubey \267 Roll No. 25CS60R65) Tj T* -128.1517 0 Td ET
+Q
+Q
+q
+1 0 0 1 76.86614 601.0197 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL 157.7967 0 Td (IIT Kharagpur \267 April 2026) Tj T* -157.7967 0 Td ET
+Q
+Q
+q
+1 0 0 1 76.86614 566.0197 cm
+Q
+q
+1 0 0 1 76.86614 521.0197 cm
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 35 Tm /F1 10 Tf 15 TL 10.41165 0 Td (FlexQL is a SQL-like embedded database server written from scratch in C++17. This document) Tj T* 14.715 0 Td (covers the six design areas required for the submission: data storage, indexing, caching,) Tj T* 21.125 0 Td (expiration-timestamp handling, multithreading, and additional design decisions.) Tj T* -46.25165 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+300 602 65 14 re
+f*
+0.266667 0.266667 0.266667 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 304 605.5 Tm
+(\267 github\056com\057vivekchaubeyIITKGP25\057FLEXQL) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 6582
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 738.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (1. How the Data is Stored) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 732.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 705.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (1.1 Row-major disk layout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 611.0197 cm
+q
+BT 1 0 0 1 0 80 Tm .386887 Tw 15 TL /F1 10 Tf 0 0 0 rg (Every table owns one append-only binary row file on the local filesystem \(default root: the directory) Tj T* 0 Tw .406408 Tw (passed as FLEXQL_STORAGE_ROOT, or a temporary directory when not set\). A row is serialised) Tj T* 0 Tw .311554 Tw (as a fixed-size header followed by a sequence of length-prefixed string fields, one per column, plus) Tj T* 0 Tw .493808 Tw (a 64-bit ) Tj /F3 10 Tf (expires_at) Tj /F1 10 Tf ( timestamp in Unix milliseconds. Because the file is append-only, the byte offset) Tj T* 0 Tw 1.095184 Tw (of a row never changes after it is written \227 this is the property that makes the primary-key hash) Tj T* 0 Tw (index reliable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 601.0197 cm
+Q
+q
+1 0 0 1 76.86614 541.0197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 15 TL 1.783609 Tw (Row-major layout was chosen deliberately over columnar storage. Every query in this workload) Tj T* 0 Tw .849073 Tw (either inserts a full row, does a primary-key point lookup that returns a full row, or scans all rows.) Tj T* 0 Tw 1.230832 Tw (Columnar layout would only help analytics that project a small subset of columns \227 none of the) Tj T* 0 Tw (current query types benefit from it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 514.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (1.2 Table metadata \(struct Table\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 495.0197 cm
+q
+BT 1 0 0 1 0 5 Tm 15 TL /F1 10 Tf 0 0 0 rg (Each in-memory ) Tj /F2 10 Tf (Table) Tj /F1 10 Tf ( object \(include/storage/storage.h\) tracks:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 77.95276 289.0197 cm
+q
+.933333 .933333 .933333 rg
+n 0 200 439.3701 -20 re f*
+1 1 1 rg
+n 0 180 439.3701 -20 re f*
+.976471 .976471 .976471 rg
+n 0 160 439.3701 -20 re f*
+1 1 1 rg
+n 0 140 439.3701 -20 re f*
+.976471 .976471 .976471 rg
+n 0 120 439.3701 -20 re f*
+1 1 1 rg
+n 0 100 439.3701 -20 re f*
+.976471 .976471 .976471 rg
+n 0 80 439.3701 -20 re f*
+1 1 1 rg
+n 0 60 439.3701 -20 re f*
+.976471 .976471 .976471 rg
+n 0 40 439.3701 -20 re f*
+1 1 1 rg
+n 0 20 439.3701 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 187 Tm (Field) Tj T* ET
+BT 1 0 0 1 105.2126 187 Tm (Type) Tj T* ET
+BT 1 0 0 1 204.4252 187 Tm (Purpose) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 167 Tm (name) Tj T* ET
+BT 1 0 0 1 105.2126 167 Tm (std::string) Tj T* ET
+BT 1 0 0 1 204.4252 167 Tm (Identifier used as catalog key) Tj T* ET
+BT 1 0 0 1 6 147 Tm (schema) Tj T* ET
+BT 1 0 0 1 105.2126 147 Tm (vector<ColumnDef>) Tj T* ET
+BT 1 0 0 1 204.4252 147 Tm (Column names, types, constraints) Tj T* ET
+BT 1 0 0 1 6 127 Tm (rowFilePath) Tj T* ET
+BT 1 0 0 1 105.2126 127 Tm (std::string) Tj T* ET
+BT 1 0 0 1 204.4252 127 Tm (Absolute path to the row file) Tj T* ET
+BT 1 0 0 1 6 107 Tm (rowFileFd / readFileFd) Tj T* ET
+BT 1 0 0 1 105.2126 107 Tm (int \(fd\)) Tj T* ET
+BT 1 0 0 1 204.4252 107 Tm (Write fd \(kept open\) + read fd) Tj T* ET
+BT 1 0 0 1 6 87 Tm (rowFileEndOffset) Tj T* ET
+BT 1 0 0 1 105.2126 87 Tm (uint64_t) Tj T* ET
+BT 1 0 0 1 204.4252 87 Tm (Byte offset of next append) Tj T* ET
+BT 1 0 0 1 6 67 Tm (rowCount) Tj T* ET
+BT 1 0 0 1 105.2126 67 Tm (uint64_t) Tj T* ET
+BT 1 0 0 1 204.4252 67 Tm (Live row counter) Tj T* ET
+BT 1 0 0 1 6 47 Tm (primaryKeyIdx) Tj T* ET
+BT 1 0 0 1 105.2126 47 Tm (int) Tj T* ET
+BT 1 0 0 1 204.4252 47 Tm (Column index of the PK, or -1) Tj T* ET
+BT 1 0 0 1 6 27 Tm (primaryKeyIndexPath/Fd) Tj T* ET
+BT 1 0 0 1 105.2126 27 Tm (string / int) Tj T* ET
+BT 1 0 0 1 204.4252 27 Tm (Disk-backed PK hash file) Tj T* ET
+BT 1 0 0 1 6 7 Tm (rwlock) Tj T* ET
+BT 1 0 0 1 105.2126 7 Tm (shared_mutex) Tj T* ET
+BT 1 0 0 1 204.4252 7 Tm (Per-table read/write lock) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 200 m 439.3701 200 l S
+n 0 0 m 439.3701 0 l S
+n 0 0 m 0 200 l S
+n 439.3701 0 m 439.3701 200 l S
+.8 .8 .8 RG
+.3 w
+n 0 180 m 439.3701 180 l S
+n 0 160 m 439.3701 160 l S
+n 0 140 m 439.3701 140 l S
+n 0 120 m 439.3701 120 l S
+n 0 100 m 439.3701 100 l S
+n 0 80 m 439.3701 80 l S
+n 0 60 m 439.3701 60 l S
+n 0 40 m 439.3701 40 l S
+n 0 20 m 439.3701 20 l S
+n 99.2126 0 m 99.2126 200 l S
+n 198.4252 0 m 198.4252 200 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 283.0197 cm
+Q
+q
+1 0 0 1 76.86614 256.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (1.3 Catalog) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 207.0197 cm
+q
+BT 1 0 0 1 0 35 Tm 5.654163 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (StorageEngine) Tj /F1 10 Tf ( holds an ) Tj /F3 10 Tf (unordered_map) Tj (<) Tj (string, unique_ptr) Tj (<) Tj (Table) Tj (>) Tj (>) Tj /F1 10 Tf ( protected by a) Tj T* 0 Tw .621109 Tw /F3 10 Tf (catalogLock_) Tj /F1 10 Tf ( \(shared_mutex\). Table creation and deletion hold an exclusive catalog lock; all other) Tj T* 0 Tw (operations take a shared catalog lock and then promote to the per-table lock as needed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 180.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (1.4 Column type system) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 101.0197 cm
+q
+BT 1 0 0 1 0 65 Tm .695331 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (ColType) Tj /F1 10 Tf ( enum \(include/common/types.h\) defines four types: INT, DECIMAL, VARCHAR, and) Tj T* 0 Tw .121457 Tw (DATETIME. All values are stored as strings on disk. INT and DECIMAL are parsed to numbers only) Tj T* 0 Tw -0.125899 Tw (at comparison time inside the executor's WHERE-clause evaluator. TEXT is accepted as a synonym) Tj T* 0 Tw .237177 Tw (for VARCHAR during parsing. This keeps the serialiser simple and avoids version-skew problems if) Tj T* 0 Tw (the schema changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 74.01969 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (1.5 Write-ahead log \(WAL\)) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 5950
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 711.5197 cm
+q
+BT 1 0 0 1 0 35 Tm 3.506663 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (DurableLog) Tj /F1 10 Tf ( class \(include/storage/durable_log.h\) implements an append-only binary log) Tj T* 0 Tw 1.583136 Tw (stored at ) Tj /F3 10 Tf (data/flexql.wal) Tj /F1 10 Tf ( by default. It is the primary source of truth; the row files are a derived,) Tj T* 0 Tw (rebuiltable working set. Every mutation follows this sequence:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 645.5197 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 12 52 Tm /F4 8 Tf 12 TL (1. Validate the statement.) Tj T* (2. DurableLog::beginInsert / beginCreate / beginDelete  \227 write + fsync a PREPARE record.) Tj T* (3. Apply the change: append to the row file, update the PK index.) Tj T* (4. DurableLog::commit  \227 write + fsync a COMMIT marker.) Tj T* (5. Return success to the client.) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 562.5197 cm
+q
+BT 1 0 0 1 0 65 Tm 3.656295 Tw 15 TL /F1 10 Tf 0 0 0 rg (If step 3 or 4 fails, the local change is rolled back and an error is returned. On restart,) Tj T* 0 Tw 1.134442 Tw /F3 10 Tf (replayDurableLog\(\)) Tj /F1 10 Tf ( rebuilds every table by replaying only records that have a matching COMMIT) Tj T* 0 Tw 1.053093 Tw (marker; any trailing PREPARE without a COMMIT is silently discarded. A large batch insert uses) Tj T* 0 Tw .070276 Tw /F3 10 Tf (beginInsertNoSync) Tj /F1 10 Tf ( / ) Tj /F3 10 Tf (commitNoSync) Tj /F1 10 Tf ( followed by a single explicit ) Tj /F3 10 Tf (sync\(\)) Tj /F1 10 Tf (, reducing fsync calls without) Tj T* 0 Tw (weakening the per-batch durability guarantee.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 546.5197 cm
+Q
+q
+1 0 0 1 76.86614 508.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (2. Indexing Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 502.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 475.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (2.1 In-memory HashIndex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 411.0197 cm
+q
+BT 1 0 0 1 0 50 Tm 1.419163 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (HashIndex) Tj /F1 10 Tf ( class \(include/index/hash_index.h\) wraps an ) Tj /F3 10 Tf (unordered_map) Tj (<) Tj (string, size_t) Tj (>) Tj /F1 10 Tf ( that) Tj T* 0 Tw .089121 Tw (maps a primary-key string value to the row's byte offset in the table row file. It is pre-reserved with a) Tj T* 0 Tw 2.239093 Tw (hint of 2) Tj /F1 8 Tf 5 Ts (20) Tj /F1 10 Tf 0 Ts ( buckets to avoid rehashing during initial load. Operations are O\(1\) average: ) Tj /F3 10 Tf (insert) Tj /F1 10 Tf (,) Tj T* 0 Tw /F3 10 Tf (lookup) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (remove) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (update) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 360.0197 cm
+q
+BT 1 0 0 1 0 35 Tm 2.139606 Tw 15 TL /F1 10 Tf 0 0 0 rg (The index is only built for tables that declare a PRIMARY KEY column. It is registered in the) Tj T* 0 Tw 2.400301 Tw (Executor via ) Tj /F3 10 Tf (registerIndex\(tableName, pkColIdx\)) Tj /F1 10 Tf ( and rebuilt from scratch after WAL replay via) Tj T* 0 Tw /F3 10 Tf (rebuildIndex\(\)) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 333.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (2.2 Index spill to disk) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 254.0197 cm
+q
+BT 1 0 0 1 0 65 Tm .163554 Tw 15 TL /F1 10 Tf 0 0 0 rg (The Executor caps the resident index at ) Tj /F3 10 Tf (maxIndexedRows_) Tj /F1 10 Tf (. When a table grows past that limit, the) Tj T* 0 Tw 2.799442 Tw (in-memory HashIndex map is cleared. The StorageEngine then falls back to the disk-backed) Tj T* 0 Tw -0.061192 Tw (primary-key hash file \(stored alongside the row file\) for both duplicate-key checks and point lookups.) Tj T* 0 Tw 3.609485 Tw (This keeps large tables from exhausting the index heap while avoiding full-table scans for) Tj T* 0 Tw (primary-key equality queries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 227.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (2.3 Lookup decision tree \(executed per WHERE clause\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 143.0197 cm
+q
+.933333 .933333 .933333 rg
+n 0 80 453.5433 -20 re f*
+1 1 1 rg
+n 0 60 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 40 453.5433 -20 re f*
+1 1 1 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 67 Tm (Condition) Tj T* ET
+BT 1 0 0 1 218.5984 67 Tm (Path taken) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 47 Tm (WHERE targets PK  +  resident HashIndex present) Tj T* ET
+BT 1 0 0 1 218.5984 47 Tm (in-memory unordered_map lookup \(O\(1\)\)) Tj T* ET
+BT 1 0 0 1 6 27 Tm (WHERE targets PK  +  index has spilled) Tj T* ET
+BT 1 0 0 1 218.5984 27 Tm (disk-backed PK hash file lookup) Tj T* ET
+BT 1 0 0 1 6 7 Tm (WHERE targets non-PK column, or no WHERE) Tj T* ET
+BT 1 0 0 1 218.5984 7 Tm (sequential scan of row file) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 80 m 453.5433 80 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 80 l S
+n 453.5433 0 m 453.5433 80 l S
+.8 .8 .8 RG
+.3 w
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 212.5984 0 m 212.5984 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 137.0197 cm
+Q
+q
+1 0 0 1 76.86614 107.0197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL .071109 Tw (Secondary indexes are not currently implemented. A non-primary-key WHERE always triggers a full) Tj T* 0 Tw (sequential scan. This is a known limitation noted for future work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 91.01969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 5845
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 738.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (3. Caching Strategy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 732.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 705.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (3.1 LRU result cache) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 656.0197 cm
+q
+BT 1 0 0 1 0 35 Tm .486109 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (LRUCache) Tj /F1 10 Tf ( class \(include/cache/lru_cache.h\) stores full SELECT result sets keyed by a query) Tj T* 0 Tw 5.884846 Tw (signature. The internal structure is a doubly-linked list \() Tj /F3 10 Tf (std::list) Tj (<) Tj (Entry) Tj (>) Tj /F1 10 Tf (\) paired with an) Tj T* 0 Tw /F3 10 Tf (unordered_map) Tj /F1 10 Tf ( from key to list iterator. This gives O\(1\) get, put, and eviction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 629.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (3.2 Capacity limits) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 565.0197 cm
+q
+.933333 .933333 .933333 rg
+n 0 60 453.5433 -20 re f*
+1 1 1 rg
+n 0 40 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 47 Tm (Limit) Tj T* ET
+BT 1 0 0 1 119.3858 47 Tm (Default) Tj T* ET
+BT 1 0 0 1 204.4252 47 Tm (Controlled by) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 27 Tm (Entry count) Tj T* ET
+BT 1 0 0 1 119.3858 27 Tm (1 024) Tj T* ET
+BT 1 0 0 1 204.4252 27 Tm (LRUCache constructor arg <i>capacity</i>) Tj T* ET
+BT 1 0 0 1 6 7 Tm (Total bytes) Tj T* ET
+BT 1 0 0 1 119.3858 7 Tm (8 MiB) Tj T* ET
+BT 1 0 0 1 204.4252 7 Tm (LRUCache constructor arg <i>maxBytes</i>) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 60 m 453.5433 60 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 60 l S
+n 453.5433 0 m 453.5433 60 l S
+.8 .8 .8 RG
+.3 w
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 113.3858 0 m 113.3858 60 l S
+n 198.4252 0 m 198.4252 60 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 559.0197 cm
+Q
+q
+1 0 0 1 76.86614 514.0197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35 Tm /F1 10 Tf 15 TL .83222 Tw (When a new result would push either limit over its budget, the least-recently-used entry is evicted) Tj T* 0 Tw .011371 Tw (first. Large result sets that exceed the byte budget stream through the executor but are not stored in) Tj T* 0 Tw (the cache.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 487.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (3.3 Cache key construction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 408.0197 cm
+q
+BT 1 0 0 1 0 65 Tm .471331 Tw 15 TL /F1 10 Tf 0 0 0 rg (The static helper ) Tj /F3 10 Tf (Executor::makeCacheKey\(query\)) Tj /F1 10 Tf ( serialises the table name, projected column list,) Tj T* 0 Tw -0.064361 Tw (WHERE predicate \(column, operator, value\), JOIN target and columns, and ORDER BY column into) Tj T* 0 Tw 3.397947 Tw (a single string. Two logically identical queries always produce the same key, regardless of) Tj T* 0 Tw 1.608887 Tw (whitespace differences in the original SQL, because the key is built from the parsed AST fields) Tj T* 0 Tw (rather than the raw SQL text.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 381.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (3.4 Cache invalidation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 317.0197 cm
+q
+BT 1 0 0 1 0 50 Tm 15.71592 Tw 15 TL /F1 10 Tf 0 0 0 rg (On every INSERT, DELETE, or CREATE TABLE, the executor calls) Tj T* 0 Tw .305331 Tw /F3 10 Tf (LRUCache::invalidateTable\(tableName\)) Tj /F1 10 Tf (. This iterates the map and removes every entry whose key) Tj T* 0 Tw .848332 Tw (contains the table name as a prefix component. The strategy is conservative \(any write to table T) Tj T* 0 Tw (purges all cached queries that touch T\) but simple and correct.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 290.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (3.5 TTL re-check on cache hit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 226.0197 cm
+q
+BT 1 0 0 1 0 50 Tm 1.336664 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (CachedResult) Tj /F1 10 Tf ( struct stores a parallel ) Tj /F3 10 Tf (vector) Tj (<) Tj (int64_t) Tj (> rowExpiresAt) Tj /F1 10 Tf ( alongside the row data.) Tj T* 0 Tw 1.573554 Tw (When the cache returns a hit, the executor re-filters the result set against ) Tj /F3 10 Tf (now\(\)) Tj /F1 10 Tf ( in milliseconds) Tj T* 0 Tw .439606 Tw (before streaming rows to the client. This means a cached result never returns a row that has since) Tj T* 0 Tw (expired, even if it was live when first cached.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 210.0197 cm
+Q
+q
+1 0 0 1 76.86614 172.0197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (4. Handling of Expiration Timestamps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 165.5197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 138.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (4.1 Data model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 89.51969 cm
+q
+BT 1 0 0 1 0 35 Tm .43121 Tw 15 TL /F1 10 Tf 0 0 0 rg (Every ) Tj /F2 10 Tf (Row) Tj /F1 10 Tf ( struct \(include/common/types.h\) carries an ) Tj /F3 10 Tf (int64_t expires_at) Tj /F1 10 Tf ( field in Unix milliseconds.) Tj T* 0 Tw .62649 Tw (A value of 0 means the row never expires. The field is written to the row file and replayed through) Tj T* 0 Tw (the WAL exactly like any other column.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 7337
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 741.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (4.2 INSERT syntax) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 725.5197 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 12 4 Tm /F4 8 Tf 12 TL (INSERT INTO orders VALUES \(1, 'Widget', 9.99\) EXPIRES 1735689600000;) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 672.5197 cm
+q
+BT 1 0 0 1 0 35 Tm 3.308716 Tw 15 TL /F1 10 Tf 0 0 0 rg (The parser recognises the optional ) Tj /F2 10 Tf (EXPIRES <) Tj (unix_ms) Tj (>) Tj /F1 10 Tf ( clause at the end of an INSERT) Tj T* 0 Tw 1.269442 Tw (statement and stores the value in ) Tj /F3 10 Tf (ParsedQuery::expiresAt) Tj /F1 10 Tf (. When the clause is absent, expiresAt) Tj T* 0 Tw (defaults to 0 \(no expiry\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 645.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (4.3 Enforcement strategy \227 lazy expiration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 541.5197 cm
+q
+.933333 .933333 .933333 rg
+n 0 100 453.5433 -20 re f*
+1 1 1 rg
+n 0 80 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 60 453.5433 -20 re f*
+1 1 1 rg
+n 0 40 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 87 Tm (Where enforced) Tj T* ET
+BT 1 0 0 1 133.5591 87 Tm (Mechanism) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 67 Tm (Sequential scan) Tj T* ET
+BT 1 0 0 1 133.5591 67 Tm (StorageEngine::scanRows skips rows where expires_at > 0 AND expires_at <= now\(\)) Tj T* ET
+BT 1 0 0 1 6 47 Tm (PK index lookup) Tj T* ET
+BT 1 0 0 1 133.5591 47 Tm (After the row is read by offset, expires_at is checked before returning it) Tj T* ET
+BT 1 0 0 1 6 27 Tm (Cache hit) Tj T* ET
+BT 1 0 0 1 133.5591 27 Tm (Executor re-filters CachedResult::rowExpiresAt against now\(\) before streaming) Tj T* ET
+BT 1 0 0 1 6 7 Tm (Duplicate-key check) Tj T* ET
+BT 1 0 0 1 133.5591 7 Tm (An expired row at a PK does not block a new INSERT with the same PK value) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 100 m 453.5433 100 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 100 l S
+n 453.5433 0 m 453.5433 100 l S
+.8 .8 .8 RG
+.3 w
+n 0 80 m 453.5433 80 l S
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 127.5591 0 m 127.5591 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 535.5197 cm
+Q
+q
+1 0 0 1 76.86614 475.5197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 15 TL .988332 Tw (Expiry is enforced lazily \227 there is no background thread that deletes rows. This keeps the write) Tj T* 0 Tw 1.445951 Tw (path simple and avoids lock contention from a concurrent sweeper. The trade-off is that expired) Tj T* 0 Tw .685554 Tw (rows still occupy disk space until a future compaction pass \(not yet implemented\) rewrites the row) Tj T* 0 Tw (file without them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 459.5197 cm
+Q
+q
+1 0 0 1 76.86614 421.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (5. Multithreading Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 415.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 388.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (5.1 Thread pool) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 324.0197 cm
+q
+BT 1 0 0 1 0 50 Tm 13.66394 Tw 15 TL /F1 10 Tf 0 0 0 rg (The server creates a fixed thread pool on startup, sized as ) Tj /F3 10 Tf (max\(4,) Tj T* 0 Tw .904846 Tw (std::thread::hardware_concurrency\(\) \327 2\)) Tj /F1 10 Tf (. Each accepted TCP connection is dispatched to an idle) Tj T* 0 Tw 1.310472 Tw (pool thread, which calls ) Tj /F3 10 Tf (serveClientConnection\(clientFd, executor\)) Tj /F1 10 Tf ( \(include/server/session.h\). The) Tj T* 0 Tw (pool prevents unbounded thread creation under high connection load.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 297.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (5.2 Lock hierarchy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 278.0197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (Six distinct locks are used. They are always acquired in the order shown below to prevent deadlock.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 132.0197 cm
+q
+.933333 .933333 .933333 rg
+n 0 140 453.5433 -20 re f*
+1 1 1 rg
+n 0 120 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 100 453.5433 -20 re f*
+1 1 1 rg
+n 0 80 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 60 453.5433 -20 re f*
+1 1 1 rg
+n 0 40 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 127 Tm (#) Tj T* ET
+BT 1 0 0 1 23.00787 127 Tm (Lock) Tj T* ET
+BT 1 0 0 1 150.5669 127 Tm (Type) Tj T* ET
+BT 1 0 0 1 241.2756 127 Tm (Scope / when held) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 107 Tm (1) Tj T* ET
+BT 1 0 0 1 23.00787 107 Tm (StorageEngine::catalogLock_) Tj T* ET
+BT 1 0 0 1 150.5669 107 Tm (shared_mutex) Tj T* ET
+BT 1 0 0 1 241.2756 107 Tm (Shared: any table access. Exclusive: CREATE/DROP TABLE.) Tj T* ET
+BT 1 0 0 1 6 87 Tm (2) Tj T* ET
+BT 1 0 0 1 23.00787 87 Tm (Table::rwlock) Tj T* ET
+BT 1 0 0 1 150.5669 87 Tm (shared_mutex) Tj T* ET
+BT 1 0 0 1 241.2756 87 Tm (Shared: row scans and reads. Exclusive: row writes and clears.) Tj T* ET
+BT 1 0 0 1 6 67 Tm (3) Tj T* ET
+BT 1 0 0 1 23.00787 67 Tm (Executor::indexMutex_) Tj T* ET
+BT 1 0 0 1 150.5669 67 Tm (mutex) Tj T* ET
+BT 1 0 0 1 241.2756 67 Tm (All HashIndex insert / lookup / update operations.) Tj T* ET
+BT 1 0 0 1 6 47 Tm (4) Tj T* ET
+BT 1 0 0 1 23.00787 47 Tm (LRUCache::mutex_) Tj T* ET
+BT 1 0 0 1 150.5669 47 Tm (mutex) Tj T* ET
+BT 1 0 0 1 241.2756 47 Tm (All cache get / put / invalidate operations.) Tj T* ET
+BT 1 0 0 1 6 27 Tm (5) Tj T* ET
+BT 1 0 0 1 23.00787 27 Tm (DurableLog::mutex_) Tj T* ET
+BT 1 0 0 1 150.5669 27 Tm (mutex) Tj T* ET
+BT 1 0 0 1 241.2756 27 Tm (All WAL appends \(beginXxx, commit, sync\).) Tj T* ET
+BT 1 0 0 1 6 7 Tm (6) Tj T* ET
+BT 1 0 0 1 23.00787 7 Tm (Executor::mutationMutex_) Tj T* ET
+BT 1 0 0 1 150.5669 7 Tm (mutex) Tj T* ET
+BT 1 0 0 1 241.2756 7 Tm (Held for the entire duration of every INSERT, DELETE, CREATE.) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 140 m 453.5433 140 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 140 l S
+n 453.5433 0 m 453.5433 140 l S
+.8 .8 .8 RG
+.3 w
+n 0 120 m 453.5433 120 l S
+n 0 100 m 453.5433 100 l S
+n 0 80 m 453.5433 80 l S
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 17.00787 0 m 17.00787 140 l S
+n 144.5669 0 m 144.5669 140 l S
+n 235.2756 0 m 235.2756 140 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 126.0197 cm
+Q
+q
+1 0 0 1 76.86614 81.01969 cm
+q
+BT 1 0 0 1 0 35 Tm 1.303331 Tw 15 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F3 10 Tf (mutationMutex_) Tj /F1 10 Tf ( at position 6 serialises all writes globally. This means concurrent reads can) Tj T* 0 Tw 4.279442 Tw (proceed in parallel, but concurrent writes are queued. The trade-off is accepted because) Tj T* 0 Tw (correctness and a clear durability story were higher priorities than maximising write concurrency.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 6887
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 741.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (5.3 Read parallelism) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 677.5197 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 15 TL .146408 Tw (Because catalog and table locks are shared mutexes, multiple clients can execute SELECT queries) Tj T* 0 Tw .534887 Tw (simultaneously without blocking each other, as long as no mutation is in progress. The LRU cache) Tj T* 0 Tw 1.964522 Tw (and WAL locks are plain mutexes and will briefly serialise concurrent cache lookups and WAL) Tj T* 0 Tw (reads, but these operations are short compared to a disk scan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 650.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (5.4 Streaming abort) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 586.5197 cm
+q
+BT 1 0 0 1 0 50 Tm 1.751457 Tw 15 TL /F1 10 Tf 0 0 0 rg (Row results are sent to the client one frame at a time inside the ) Tj /F3 10 Tf (flexql_callback) Tj /F1 10 Tf ( loop. Between) Tj T* 0 Tw .848332 Tw (frames the session handler checks whether the client has sent an ABORT frame and, if so, stops) Tj T* 0 Tw -0.13351 Tw (execution early. This allows a client to cancel a large query without waiting for the full result set to be) Tj T* 0 Tw (materialised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 570.5197 cm
+Q
+q
+1 0 0 1 76.86614 532.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (6. Additional Design Decisions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 526.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 499.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.1 Network protocol) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 450.0197 cm
+q
+BT 1 0 0 1 0 35 Tm -0.054168 Tw 15 TL /F1 10 Tf 0 0 0 rg (All TCP messages use a 4-byte big-endian length prefix followed by the payload bytes \(max 16 MiB,) Tj T* 0 Tw 3.669256 Tw (defined as FLEXQL_MAX_MSG in types.h\). ) Tj /F3 10 Tf (net::sendMsg) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (net::recvMsg) Tj /F1 10 Tf ( handle framing.) Tj T* 0 Tw (Sockets are configured with TCP_NODELAY to reduce latency for small frames.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 264.0197 cm
+q
+.933333 .933333 .933333 rg
+n 0 180 453.5433 -20 re f*
+1 1 1 rg
+n 0 160 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 140 453.5433 -20 re f*
+1 1 1 rg
+n 0 120 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 100 453.5433 -20 re f*
+1 1 1 rg
+n 0 80 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 60 453.5433 -20 re f*
+1 1 1 rg
+n 0 40 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 167 Tm (Direction) Tj T* ET
+BT 1 0 0 1 96.70866 167 Tm (Frame prefix) Tj T* ET
+BT 1 0 0 1 187.4173 167 Tm (Payload) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 147 Tm (Client ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Server) Tj T* ET
+BT 1 0 0 1 96.70866 147 Tm (QUERY\\n) Tj T* ET
+BT 1 0 0 1 187.4173 147 Tm (SQL text) Tj T* ET
+BT 1 0 0 1 6 127 Tm (Client ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Server) Tj T* ET
+BT 1 0 0 1 96.70866 127 Tm (ABORT) Tj T* ET
+BT 1 0 0 1 187.4173 127 Tm (\(empty \227 cancel current stream\)) Tj T* ET
+BT 1 0 0 1 6 107 Tm (Client ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Server) Tj T* ET
+BT 1 0 0 1 96.70866 107 Tm (EXIT) Tj T* ET
+BT 1 0 0 1 187.4173 107 Tm (\(empty \227 close connection\)) Tj T* ET
+BT 1 0 0 1 6 87 Tm (Server ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Client) Tj T* ET
+BT 1 0 0 1 96.70866 87 Tm (HEADER\\n) Tj T* ET
+BT 1 0 0 1 187.4173 87 Tm (Tab-separated column names) Tj T* ET
+BT 1 0 0 1 6 67 Tm (Server ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Client) Tj T* ET
+BT 1 0 0 1 96.70866 67 Tm (ROW\\n) Tj T* ET
+BT 1 0 0 1 187.4173 67 Tm (Tab-separated row values) Tj T* ET
+BT 1 0 0 1 6 47 Tm (Server ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Client) Tj T* ET
+BT 1 0 0 1 96.70866 47 Tm (END) Tj T* ET
+BT 1 0 0 1 187.4173 47 Tm (\(empty \227 result set complete\)) Tj T* ET
+BT 1 0 0 1 6 27 Tm (Server ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Client) Tj T* ET
+BT 1 0 0 1 96.70866 27 Tm (ABORTED) Tj T* ET
+BT 1 0 0 1 187.4173 27 Tm (\(empty \227 abort acknowledged\)) Tj T* ET
+BT 1 0 0 1 6 7 Tm (Server ) Tj /F5 9 Tf 12 TL (\256) Tj /F1 9 Tf 12 TL ( Client) Tj T* ET
+BT 1 0 0 1 96.70866 7 Tm (ERR\\n) Tj T* ET
+BT 1 0 0 1 187.4173 7 Tm (Error message text) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 180 m 453.5433 180 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 180 l S
+n 453.5433 0 m 453.5433 180 l S
+.8 .8 .8 RG
+.3 w
+n 0 160 m 453.5433 160 l S
+n 0 140 m 453.5433 140 l S
+n 0 120 m 453.5433 120 l S
+n 0 100 m 453.5433 100 l S
+n 0 80 m 453.5433 80 l S
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 90.70866 0 m 90.70866 180 l S
+n 181.4173 0 m 181.4173 180 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 256.0197 cm
+Q
+q
+1 0 0 1 76.86614 229.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.2 Incremental streaming) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 165.0197 cm
+q
+BT 1 0 0 1 0 50 Tm -0.018041 Tw 15 TL /F1 10 Tf 0 0 0 rg (The executor calls ) Tj /F3 10 Tf (flexql_callback) Tj /F1 10 Tf ( for each row as it is produced by the storage scan. Rows are sent) Tj T* 0 Tw .868887 Tw (to the client immediately rather than being accumulated in a buffer first. The exception is ORDER) Tj T* 0 Tw .703331 Tw (BY and multi-table JOIN: these operations must materialise the full intermediate result before they) Tj T* 0 Tw (can sort or merge, so they consume more memory for large result sets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 138.0197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.3 Batched INSERT optimisation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 74.01969 cm
+q
+BT 1 0 0 1 0 50 Tm .331793 Tw 15 TL /F1 10 Tf 0 0 0 rg (A single QUERY frame may contain multiple value tuples: ) Tj /F3 10 Tf (INSERT INTO t VALUES \(1,'a'\),\(2,'b'\),...;) Tj /F1 10 Tf  T* 0 Tw 4.316664 Tw (The parser populates ) Tj /F3 10 Tf (ParsedQuery::insertRows) Tj /F1 10 Tf ( as a vector of tuples. The executor holds) Tj T* 0 Tw 1.577707 Tw /F3 10 Tf (mutationMutex_) Tj /F1 10 Tf ( once for the whole batch, writes all rows to the row file in sequence, and uses) Tj T* 0 Tw .069442 Tw /F3 10 Tf (beginInsertNoSync) Tj /F1 10 Tf ( for intermediate records with a single final ) Tj /F3 10 Tf (sync\(\)) Tj /F1 10 Tf (. This cuts both lock-acquisition) Tj T* 0 Tw ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 6486
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.333333 .333333 .333333 rg
+BT 1 0 0 1 70.86614 793.7008 Tm (FlexQL \227 Design Document) Tj T* ET
+BT 1 0 0 1 450.1614 793.7008 Tm (Roll No. 25CS60R65) Tj T* ET
+.733333 .733333 .733333 RG
+n 70.86614 788.0315 m 524.4094 788.0315 l S
+n 70.86614 51.02362 m 524.4094 51.02362 l S
+BT 1 0 0 1 284.9618 34.01575 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 76.86614 741.5197 cm
+q
+BT 1 0 0 1 0 5 Tm 15 TL /F1 10 Tf 0 0 0 rg (overhead and fsync calls dramatically for bulk loads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 714.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.4 Persistent write file descriptor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 650.5197 cm
+q
+BT 1 0 0 1 0 50 Tm 1.007177 Tw 15 TL /F1 10 Tf 0 0 0 rg (Each Table keeps its write-side row file descriptor \() Tj /F3 10 Tf (rowFileFd) Tj /F1 10 Tf (\) open across multiple inserts rather) Tj T* 0 Tw 2.517379 Tw (than opening and closing it for each row. This avoids repeated kernel open/close syscalls. A) Tj T* 0 Tw 1.843093 Tw (separate read-side descriptor \() Tj /F3 10 Tf (readFileFd) Tj /F1 10 Tf (\) is used for scans so that the read position does not) Tj T* 0 Tw (interfere with appends.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 623.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.5 Snapshot persistence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 574.5197 cm
+q
+BT 1 0 0 1 0 35 Tm 2.434812 Tw 15 TL /F1 10 Tf 0 0 0 rg (In addition to WAL replay, the ) Tj /F3 10 Tf (persistence) Tj /F1 10 Tf ( namespace \(include/storage/persistence.h\) provides) Tj T* 0 Tw -0.069746 Tw /F3 10 Tf (saveSnapshot) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (loadSnapshot) Tj /F1 10 Tf ( helpers that serialise the current storage state to a compact binary) Tj T* 0 Tw (file. Snapshots allow faster cold-start recovery than replaying a long WAL from the beginning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 547.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.6 Supported SQL subset) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 343.5197 cm
+q
+.933333 .933333 .933333 rg
+n 0 200 453.5433 -20 re f*
+1 1 1 rg
+n 0 180 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 160 453.5433 -20 re f*
+1 1 1 rg
+n 0 140 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 120 453.5433 -20 re f*
+1 1 1 rg
+n 0 100 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 80 453.5433 -20 re f*
+1 1 1 rg
+n 0 60 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 40 453.5433 -20 re f*
+1 1 1 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 187 Tm (Statement / feature) Tj T* ET
+BT 1 0 0 1 161.9055 187 Tm (Notes) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 167 Tm (CREATE TABLE [IF NOT EXISTS]) Tj T* ET
+BT 1 0 0 1 161.9055 167 Tm (Full schema: INT, DECIMAL, VARCHAR/TEXT, DATETIME; PRIMARY KEY) Tj T* ET
+BT 1 0 0 1 6 147 Tm (INSERT \(single row\)) Tj T* ET
+BT 1 0 0 1 161.9055 147 Tm (One VALUES tuple; optional EXPIRES clause) Tj T* ET
+BT 1 0 0 1 6 127 Tm (INSERT \(batched\)) Tj T* ET
+BT 1 0 0 1 161.9055 127 Tm (Multiple VALUES tuples in one statement) Tj T* ET
+BT 1 0 0 1 6 107 Tm (SELECT * / projected SELECT) Tj T* ET
+BT 1 0 0 1 161.9055 107 Tm (Comma-separated column list or *) Tj T* ET
+BT 1 0 0 1 6 87 Tm (WHERE \(single condition\)) Tj T* ET
+BT 1 0 0 1 161.9055 87 Tm (=  !=  <  >  <=  >= on any column) Tj T* ET
+BT 1 0 0 1 6 67 Tm (INNER JOIN) Tj T* ET
+BT 1 0 0 1 161.9055 67 Tm (Two-table equi-join on any column pair) Tj T* ET
+BT 1 0 0 1 6 47 Tm (ORDER BY \(single column\)) Tj T* ET
+BT 1 0 0 1 161.9055 47 Tm (ASC or DESC; rows materialised before streaming) Tj T* ET
+BT 1 0 0 1 6 27 Tm (DELETE FROM) Tj T* ET
+BT 1 0 0 1 161.9055 27 Tm (Full-table delete; WAL-logged) Tj T* ET
+BT 1 0 0 1 6 7 Tm (EXPIRES <unix_ms>) Tj T* ET
+BT 1 0 0 1 161.9055 7 Tm (Row-level TTL appended to INSERT) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 200 m 453.5433 200 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 200 l S
+n 453.5433 0 m 453.5433 200 l S
+.8 .8 .8 RG
+.3 w
+n 0 180 m 453.5433 180 l S
+n 0 160 m 453.5433 160 l S
+n 0 140 m 453.5433 140 l S
+n 0 120 m 453.5433 120 l S
+n 0 100 m 453.5433 100 l S
+n 0 80 m 453.5433 80 l S
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 155.9055 0 m 155.9055 200 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 335.5197 cm
+Q
+q
+1 0 0 1 76.86614 308.5197 cm
+q
+.133333 .133333 .133333 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (6.7 Benchmark results \(April 7, 2026, 10 M rows, 4 clients\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 70.86614 184.5197 cm
+q
+.933333 .933333 .933333 rg
+n 0 120 453.5433 -20 re f*
+1 1 1 rg
+n 0 100 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 80 453.5433 -20 re f*
+1 1 1 rg
+n 0 60 453.5433 -20 re f*
+.976471 .976471 .976471 rg
+n 0 40 453.5433 -20 re f*
+1 1 1 rg
+n 0 20 453.5433 -20 re f*
+0 0 0 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 6 107 Tm (Metric) Tj T* ET
+BT 1 0 0 1 204.4252 107 Tm (Result) Tj T* ET
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 6 87 Tm (Insert elapsed) Tj T* ET
+BT 1 0 0 1 204.4252 87 Tm (9,209 ms) Tj T* ET
+BT 1 0 0 1 6 67 Tm (Insert throughput) Tj T* ET
+BT 1 0 0 1 204.4252 67 Tm (1,085,894 rows / sec) Tj T* ET
+BT 1 0 0 1 6 47 Tm (Full-table SELECT \(4 clients\)) Tj T* ET
+BT 1 0 0 1 204.4252 47 Tm (193,780 ms  \227  40 M rows streamed total) Tj T* ET
+BT 1 0 0 1 6 27 Tm (Primary-key WHERE \(4 clients\)) Tj T* ET
+BT 1 0 0 1 204.4252 27 Tm (26,198 ms) Tj T* ET
+BT 1 0 0 1 6 7 Tm (Unit tests) Tj T* ET
+BT 1 0 0 1 204.4252 7 Tm (23 / 23 passed) Tj T* ET
+q
+1 J
+1 j
+.666667 .666667 .666667 RG
+.4 w
+n 0 120 m 453.5433 120 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 120 l S
+n 453.5433 0 m 453.5433 120 l S
+.8 .8 .8 RG
+.3 w
+n 0 100 m 453.5433 100 l S
+n 0 80 m 453.5433 80 l S
+n 0 60 m 453.5433 60 l S
+n 0 40 m 453.5433 40 l S
+n 0 20 m 453.5433 20 l S
+n 198.4252 0 m 198.4252 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 76.86614 174.5197 cm
+Q
+q
+1 0 0 1 76.86614 136.5197 cm
+q
+.066667 .066667 .066667 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (7. Known Limitations and Future Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 130.0197 cm
+q
+.5 w
+1 J
+.733333 .733333 .733333 RG
+n 0 0 m 441.5433 0 l S
+Q
+Q
+q
+1 0 0 1 76.86614 94.01969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 18 Tm /F1 10 Tf 14 TL (\177 WHERE supports only a single predicate. AND / OR compound conditions require parser and) Tj T* (executor changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 76.86614 77.01969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4 Tm /F1 10 Tf 14 TL (\177 Secondary indexes are not implemented. Non-PK WHERE clauses always scan.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 671
+>>
+stream
+GatUo?#S1G'Sc)R/)E>p81%+'e_P(XLPAF1[/krf)`Mn<UY%3-6e?gKSTRjh5YP?*`Q@rHF3a)J7/j(>Z]`+,M%:C:1e,"V9h9kVL1r[C3B2>Bi#%[EBIBSC_Xl=-+b:]8k7K/KN$cWd,EbQZ0-W-`B_^E.%(C5HA&>@H'dgM,-!0Ldar`%hKcPJNOu+BTO"q+!1mi'13'CV\d3;51fd&e&4^/^E#HEPZ'I4UE'G>-HRuYKO>D$KO2Ph[V7p4W.IC+^\*cP@0A=V$KUP)#lc-m0tRaiBH&+[`$pMj0c"&fhrP`Bf<Mg%[^qrq(.:_F+YJjoEc"^-Sh1s^0LQqS;Uq[TLSBUJ=:I_*+\>=dnd&ZcS1A(1;-$0;VZYD%29EbE&hP"TX%pYmS1Ick2TCLFPij9b_@kpcQq4Y?Ym5M'RjNCqA7X.7Q%"Q)se0RVKVK/["ig??4=,8=df3FFMq(2h<h>.NVsH5!T\E/q,qGMKE!`]gU;oe.C$i[m+goh?jBiD)rCK)W&qng\d0H_8'ET:^?r<OKjA1QT3]SH/EDFL5?YVX2^j[RRb!G1Sb\Mj821g39tdJADRm2]T,Gr9bm'H2_"D0@uE:EXM.1Ta?58#s'pnVQf&G3`30%X3q;T"U1.jo!">BD!D\kj)Vl(0$<@a)#OTcR4Wg~>
+endstream
+endobj
+26 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000486 00000 n 
+0000002470 00000 n 
+0000002577 00000 n 
+0000002684 00000 n 
+0000002796 00000 n 
+0000002911 00000 n 
+0000003017 00000 n 
+0000003095 00000 n 
+0000003372 00000 n 
+0000010007 00000 n 
+0000010284 00000 n 
+0000016287 00000 n 
+0000016564 00000 n 
+0000022462 00000 n 
+0000022739 00000 n 
+0000030129 00000 n 
+0000030406 00000 n 
+0000037346 00000 n 
+0000037623 00000 n 
+0000044162 00000 n 
+0000044364 00000 n 
+0000045127 00000 n 
+trailer
+<<
+/Size 27
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+45201
+%%EOF
